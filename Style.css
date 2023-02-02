@@ -23,7 +23,7 @@ body {
 .container {
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 52%;
   transform: translate(-50%, -50%);
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
